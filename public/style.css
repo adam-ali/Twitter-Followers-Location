@@ -1,0 +1,28 @@
+.blue{
+    background-color: #00aced;
+    color: white;
+}
+.data{
+    padding-bottom: 10px;
+}
+.button{
+    color: white;
+}
+.button:hover{
+    color: white;
+}
+.box{
+    background-color: #f5f8fa;
+}
+.label{
+    font-size: 14px;
+}
+.title{
+    font-weight: bold;
+    color: white;
+    margin-top: 2%;
+    margin-bottom: 2rem;
+}
+.subtitle{
+    color: white;
+}
