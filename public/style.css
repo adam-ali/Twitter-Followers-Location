@@ -26,3 +26,12 @@
 .subtitle{
     color: white;
 }
+.followers{
+    color: black;
+}
+.box .box{
+    background-color: white;
+}
+.pagination a{
+    text-decoration: none;
+}
